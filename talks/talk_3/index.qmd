@@ -1,0 +1,9 @@
+---
+title: "Computational biology in the age of AI"
+description: "A 15 minutes introduction to AI agents for biology"
+date: "2019-10-28"
+categories: [ehr]
+priority: 3
+---
+
+![](image.jpg)

@@ -1,0 +1,35 @@
+---
+title: "Md Osman Gani Bhuiyan"
+image: img/profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      href: mailto:email@gmail.com   
+      target: _blank
+    - icon: linkedin
+      href: https://linkedin.com/in/username
+      target: _blank
+    - icon: github
+      href: https://github.com/ogbhuiyan
+      target: _blank
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0001-9323-4997
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/
+      target: _blank
+    
+---
+
+::: {#hero-heading}
+
+Hello, I am *Md Osman Gani Bhuiyan*.
+
+I am a microbiologist with a strong interest in bioinformatics, computational biology, genomics, and cancer research. I am passionate about integrating biological and computational approaches to explore complex biological questions and contribute to biomedical research. I aspire to pursue a PhD and develop interdisciplinary expertise at the intersection of microbiology, genomics, and computational science.
+
+Currently, I am working as Research Assistant at [CHIRAL](https://chiralbd.github.io/). 
+
+:::

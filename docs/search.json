@@ -115,7 +115,7 @@
     "href": "about.html",
     "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n     ORCID\n  \n\n  \n  \n\n\nI am a microbiologist with academic background in BSc (2019) and MSc (2020) in Microbiology from Jahangirnagar University and professional experience in the pharmaceutical industry. I currently work as an Executive in Quality Control – Microbiology at Aristopharma Ltd.\nAlongside my professional work, I am developing my expertise in bioinformatics and computational biology, with a particular interest in high-throughput sequencing data analysis and the molecular mechanisms underlying disease.\n\n\n\nMSc in Microbiology\nJahangirnagar University, Bangladesh\nBSc in Microbiology\nJahangirnagar University, Bangladesh\n\n\n\nExecutive — Quality Control, Microbiology\nAristopharma Ltd.\nResearch Assistant\nCHIRAL\nMicrobiology Department — Vaccine Division\nIncepta Pharmaceuticals Ltd.\n\n\n\n\nSingle-cell RNA-seq and bulk RNA-seq\nCancer genomics and transcriptomics\nGene expression and pathway analysis\nDisease biology and molecular mechanisms\nTumor–immune interactions\nComputational biology and reproducible research\n\n\n\n\nI am particularly interested in integrating my microbiology background with computational approaches to investigate genomics, disease biology, and cancer research. My long-term goal is to develop interdisciplinary expertise at the intersection of microbiology, bioinformatics, computational biology, and molecular biology.",
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n     ORCID\n  \n\n  \n  \n\n\nI hold a MSc (2020) and BSc (2019) in Microbiology from Jahangirnagar University. I currently work as an Executive, Quality Control – Microbiology at Aristopharma Ltd. Alongside my professional work, I am developing my expertise in bioinformatics and computational biology. as a Research Assistant at CHIRAL.\n\n\n\nMaster of Science in Microbiology\nJahangirnagar University, Dhaka, Bangladesh\nBachelor of Science in Microbiology\nJahangirnagar University, Dhaka, Bangladesh\n\n\n\nResearch Assistant CHIRAL\n\n\n\nExecutive — Quality Control, Microbiology\nAristopharma Ltd.\nOfficer, Quality Control (Microbiology) — Vaccine Division\nIncepta Pharmaceuticals Ltd.\n\n\n\n\nCancer genomics and transcriptomics\nComputational biology and reproducible research",
     "crumbs": [
       "About"
     ]
@@ -125,7 +125,7 @@
     "href": "about.html#about",
     "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "I am a microbiologist with academic background in BSc (2019) and MSc (2020) in Microbiology from Jahangirnagar University and professional experience in the pharmaceutical industry. I currently work as an Executive in Quality Control – Microbiology at Aristopharma Ltd.\nAlongside my professional work, I am developing my expertise in bioinformatics and computational biology, with a particular interest in high-throughput sequencing data analysis and the molecular mechanisms underlying disease.",
+    "text": "I hold a MSc (2020) and BSc (2019) in Microbiology from Jahangirnagar University. I currently work as an Executive, Quality Control – Microbiology at Aristopharma Ltd. Alongside my professional work, I am developing my expertise in bioinformatics and computational biology. as a Research Assistant at CHIRAL.",
     "crumbs": [
       "About"
     ]
@@ -135,7 +135,17 @@
     "href": "about.html#education",
     "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "MSc in Microbiology\nJahangirnagar University, Bangladesh\nBSc in Microbiology\nJahangirnagar University, Bangladesh",
+    "text": "Master of Science in Microbiology\nJahangirnagar University, Dhaka, Bangladesh\nBachelor of Science in Microbiology\nJahangirnagar University, Dhaka, Bangladesh",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "Md Osman Gani Bhuiyan",
+    "section": "",
+    "text": "Research Assistant CHIRAL",
     "crumbs": [
       "About"
     ]
@@ -145,7 +155,7 @@
     "href": "about.html#professional-experience",
     "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "Executive — Quality Control, Microbiology\nAristopharma Ltd.\nResearch Assistant\nCHIRAL\nMicrobiology Department — Vaccine Division\nIncepta Pharmaceuticals Ltd.",
+    "text": "Executive — Quality Control, Microbiology\nAristopharma Ltd.\nOfficer, Quality Control (Microbiology) — Vaccine Division\nIncepta Pharmaceuticals Ltd.",
     "crumbs": [
       "About"
     ]
@@ -155,17 +165,7 @@
     "href": "about.html#research-interests",
     "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "Single-cell RNA-seq and bulk RNA-seq\nCancer genomics and transcriptomics\nGene expression and pathway analysis\nDisease biology and molecular mechanisms\nTumor–immune interactions\nComputational biology and reproducible research",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#research-direction",
-    "href": "about.html#research-direction",
-    "title": "Md Osman Gani Bhuiyan",
-    "section": "",
-    "text": "I am particularly interested in integrating my microbiology background with computational approaches to investigate genomics, disease biology, and cancer research. My long-term goal is to develop interdisciplinary expertise at the intersection of microbiology, bioinformatics, computational biology, and molecular biology.",
+    "text": "Cancer genomics and transcriptomics\nComputational biology and reproducible research",
     "crumbs": [
       "About"
     ]
@@ -189,7 +189,7 @@
     "href": "index.html",
     "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "Hello, I am Md Osman Gani Bhuiyan.\nI am a microbiologist with a strong interest in bioinformatics, computational biology, genomics, and cancer research. I am passionate about integrating biological and computational approaches to explore complex biological questions and contribute to biomedical research. I aspire to pursue a PhD and develop interdisciplinary expertise at the intersection of microbiology, genomics, and computational science.\nCurrently, I am working as Research Assistant at CHIRAL. I am also an Executive in Quality Control – Microbiology at Aristopharma Ltd."
+    "text": "Hello, I am Md Osman Gani Bhuiyan.\nI am a microbiologist with academic training in microbiology and professional experience in pharmaceutical microbiology. My current interests are in bioinformatics, computational biology, cancer genomics, transcriptomics, and disease biology.\nI am particularly interested in using computational approaches to analyze high-throughput biological data and investigate molecular mechanisms underlying disease, with a growing focus on cancer genomics and transcriptomics.\nCurrently, I am working as a Research Assistant at CHIRAL and as an Executive in Quality Control – Microbiology at Aristopharma Ltd. I am developing my expertise in Python, R, Linux, Git/GitHub, and single-cell and bulk RNA-seq analysis, with the long-term goal of pursuing interdisciplinary research at the intersection of microbiology and computational biology."
   },
   {
     "objectID": "projects/pkg_1/index.html",

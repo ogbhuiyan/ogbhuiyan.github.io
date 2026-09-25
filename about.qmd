@@ -1,6 +1,6 @@
 ---
 title: "Md Osman Gani Bhuiyan"
-image: img/profile.png
+image: img/profile1.png
 about:
   id: hero-heading
   template: trestles
@@ -23,40 +23,33 @@ about:
 
 ## About
 
-I am a microbiologist with academic background in **BSc (2019) and MSc (2020) in Microbiology from Jahangirnagar University** and professional experience in the pharmaceutical industry. I currently work as an **Executive in Quality Control – Microbiology at Aristopharma Ltd.**
-
-Alongside my professional work, I am developing my expertise in **bioinformatics and computational biology**, with a particular interest in high-throughput sequencing data analysis and the molecular mechanisms underlying disease.
+I hold a **MSc (2020) and BSc (2019) in Microbiology from Jahangirnagar University**. I currently work as an Executive, Quality Control – Microbiology at Aristopharma Ltd.
+Alongside my professional work, I am developing my expertise in **bioinformatics and computational biology**. as a Research Assistant at [CHIRAL](https://chiralbd.github.io/).
 
 ## Education
 
-**MSc in Microbiology**  
-Jahangirnagar University, Bangladesh
+**Master of Science in Microbiology**  
+Jahangirnagar University, Dhaka, Bangladesh
 
-**BSc in Microbiology**  
-Jahangirnagar University, Bangladesh
+**Bachelor of Science in Microbiology**  
+Jahangirnagar University, Dhaka, Bangladesh
+
+## Research Experience
+
+**Research Assistant**
+[CHIRAL](https://chiralbd.github.io/)
 
 ## Professional Experience
 
 **Executive — Quality Control, Microbiology**  
 Aristopharma Ltd.
 
-**Research Assistant**  
-[CHIRAL](https://chiralbd.github.io/)
-
-**Microbiology Department — Vaccine Division**  
+**Officer, Quality Control (Microbiology) — Vaccine Division**  
 Incepta Pharmaceuticals Ltd.
 
 ## Research Interests
 
-- Single-cell RNA-seq and bulk RNA-seq
 - Cancer genomics and transcriptomics
-- Gene expression and pathway analysis
-- Disease biology and molecular mechanisms
-- Tumor–immune interactions
 - Computational biology and reproducible research
-
-## Research Direction
-
-I am particularly interested in integrating my **microbiology background with computational approaches** to investigate genomics, disease biology, and cancer research. My long-term goal is to develop interdisciplinary expertise at the intersection of **microbiology, bioinformatics, computational biology, and molecular biology**.
 
 :::

@@ -5,12 +5,12 @@ project:
 website:
   page-navigation: true
   title: "Md Osman Gani Bhuiyan"
-  image: "img/profile.png"
-  favicon: "img/favicon.png"
-  description: "Academic Website for Mr. John Doe"
+  image: "img/profile.jpg"
+  favicon: "img/profile.jpg"
+  description: "Academic Website Md Osman Gani Bhuiyan"
 
   page-footer:
-    left: "&copy; Copyright 2026, Author"
+    left: "&copy; Copyright 2026, Md Osman Gani Bhuiyan"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
@@ -34,6 +34,6 @@ website:
         href: blog/index.qmd 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true

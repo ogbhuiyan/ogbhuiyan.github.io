@@ -1,29 +1,27 @@
 ---
 title: "Md Osman Gani Bhuiyan"
-image: img/profile.png
+image: img/profile.jpg
 about:
   id: hero-heading
   template: trestles
   image-shape: rectangle
   links:
     - icon: envelope
-      href: mdosmanganibhuiyan@gmail.com   
-    - icon: twitter
-      href: https://x.com/username
+      href: mailto:mdosmanganibhuiyan@gmail.com
       target: _blank
     - icon: linkedin
-      href: www.linkedin.com/in/bhuiyanlab
+      href: https://www.linkedin.com/in/bhuiyanlab
       target: _blank
     - icon: github
       href: https://github.com/ogbhuiyan
       target: _blank
     - text: "{{< ai orcid >}}"
-      href: https://orcid.org/my-orcid?orcid=0009-0009-4166-0009
+      href: https://orcid.org/0009-0009-4166-0009
       target: _blank
     - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.com/
       target: _blank
-    
+
 ---
 
 ::: {#hero-heading}
@@ -32,6 +30,6 @@ Hello, I am *Md Osman Gani Bhuiyan*.
 
 I am a microbiologist with a strong interest in bioinformatics, computational biology, genomics, and cancer research. I am passionate about integrating biological and computational approaches to explore complex biological questions and contribute to biomedical research. I aspire to pursue a PhD and develop interdisciplinary expertise at the intersection of microbiology, genomics, and computational science.
 
-Currently, I am working as Research Assistant at [CHIRAL](https://chiralbd.github.io/).Also, I'm a Executive, Quality Control – Microbiology @ Aristopharma Ltd.
+Currently, I am working as Research Assistant at [CHIRAL](https://chiralbd.github.io/). I am also an Executive in Quality Control – Microbiology at Aristopharma Ltd.
 
 :::

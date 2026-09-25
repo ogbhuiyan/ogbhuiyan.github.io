@@ -25,6 +25,20 @@ listing:
     sort-ui: false
     sort: "priority asc"
     filter-ui: false
+
+=======
+  - id: combio
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - talk_3
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+
 ---
 
 ## Rstats

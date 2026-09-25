@@ -1,2 +1,2 @@
-# academic-website-template
-Template for Academic Website
+# ogbhuiyan.github.io
+Personal Website for Osman Gani

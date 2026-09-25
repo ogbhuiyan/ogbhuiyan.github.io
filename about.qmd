@@ -1,6 +1,6 @@
 ---
 title: "Md Osman Gani Bhuiyan"
-image: img/profile1.png
+image: img/profile.png
 about:
   id: hero-heading
   template: trestles

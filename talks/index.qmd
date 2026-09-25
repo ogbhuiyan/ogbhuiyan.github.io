@@ -26,7 +26,6 @@ listing:
     sort: "priority asc"
     filter-ui: false
 
-=======
   - id: combio
     max-description-length: 500
     image-height: 150px

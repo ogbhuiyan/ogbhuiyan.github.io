@@ -113,9 +113,19 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Author",
+    "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers.",
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n     ORCID\n  \n\n  \n  \n\n\nI am a microbiologist with academic background in BSc (2019) and MSc (2020) in Microbiology from Jahangirnagar University and professional experience in the pharmaceutical industry. I currently work as an Executive in Quality Control – Microbiology at Aristopharma Ltd.\nAlongside my professional work, I am developing my expertise in bioinformatics and computational biology, with a particular interest in high-throughput sequencing data analysis and the molecular mechanisms underlying disease.\n\n\n\nMSc in Microbiology\nJahangirnagar University, Bangladesh\nBSc in Microbiology\nJahangirnagar University, Bangladesh\n\n\n\nExecutive — Quality Control, Microbiology\nAristopharma Ltd.\nResearch Assistant\nCHIRAL\nMicrobiology Department — Vaccine Division\nIncepta Pharmaceuticals Ltd.\n\n\n\n\nSingle-cell RNA-seq and bulk RNA-seq\nCancer genomics and transcriptomics\nGene expression and pathway analysis\nDisease biology and molecular mechanisms\nTumor–immune interactions\nComputational biology and reproducible research\n\n\n\n\nI am particularly interested in integrating my microbiology background with computational approaches to investigate genomics, disease biology, and cancer research. My long-term goal is to develop interdisciplinary expertise at the intersection of microbiology, bioinformatics, computational biology, and molecular biology.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Md Osman Gani Bhuiyan",
+    "section": "",
+    "text": "I am a microbiologist with academic background in BSc (2019) and MSc (2020) in Microbiology from Jahangirnagar University and professional experience in the pharmaceutical industry. I currently work as an Executive in Quality Control – Microbiology at Aristopharma Ltd.\nAlongside my professional work, I am developing my expertise in bioinformatics and computational biology, with a particular interest in high-throughput sequencing data analysis and the molecular mechanisms underlying disease.",
     "crumbs": [
       "About"
     ]
@@ -123,19 +133,39 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Author",
+    "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022",
+    "text": "MSc in Microbiology\nJahangirnagar University, Bangladesh\nBSc in Microbiology\nJahangirnagar University, Bangladesh",
     "crumbs": [
       "About"
     ]
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Author",
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "Md Osman Gani Bhuiyan",
     "section": "",
-    "text": "I have developed X R packages, published Y papers.",
+    "text": "Executive — Quality Control, Microbiology\nAristopharma Ltd.\nResearch Assistant\nCHIRAL\nMicrobiology Department — Vaccine Division\nIncepta Pharmaceuticals Ltd.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Md Osman Gani Bhuiyan",
+    "section": "",
+    "text": "Single-cell RNA-seq and bulk RNA-seq\nCancer genomics and transcriptomics\nGene expression and pathway analysis\nDisease biology and molecular mechanisms\nTumor–immune interactions\nComputational biology and reproducible research",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#research-direction",
+    "href": "about.html#research-direction",
+    "title": "Md Osman Gani Bhuiyan",
+    "section": "",
+    "text": "I am particularly interested in integrating my microbiology background with computational approaches to investigate genomics, disease biology, and cancer research. My long-term goal is to develop interdisciplinary expertise at the intersection of microbiology, bioinformatics, computational biology, and molecular biology.",
     "crumbs": [
       "About"
     ]

@@ -5,8 +5,8 @@ project:
 website:
   page-navigation: true
   title: "Md Osman Gani Bhuiyan"
-  image: "img/profile.png"
-  favicon: "img/profile.png"
+  image: "img/profile-square.png"
+  favicon: "img/profile-square.png"
   description: "Academic Website Md Osman Gani Bhuiyan"
 
   page-footer:

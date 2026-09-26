@@ -1,6 +1,6 @@
 ---
 title: "Md Osman Gani Bhuiyan"
-image: img/profile.png
+image: img/profile-square.png
 about:
   id: hero-heading
   template: trestles
@@ -20,11 +20,10 @@ about:
 ---
 
 ::: {#hero-heading}
-
 ## About
 
-I hold a **MSc (2020) and BSc (2019) in Microbiology from Jahangirnagar University**. I currently work as an Executive, Quality Control – Microbiology at Aristopharma Ltd.
-Alongside my professional work, I am developing my expertise in **bioinformatics and computational biology**. as a Research Assistant at [CHIRAL](https://chiralbd.github.io/).
+I hold a **MSc (2020) and BSc (2019) in Microbiology from Jahangirnagar University**. 
+Alongside my professional work, I am developing my expertise in **bioinformatics and computational biology**.  My long term goal is to bridge **dry-lab computation and wet-lab biology** by using experimental knowledge and biological data together to understand disease mechanisms and contribute to the **Human Health**.
 
 ## Education
 
@@ -36,20 +35,25 @@ Jahangirnagar University, Dhaka, Bangladesh
 
 ## Research Experience
 
-**Research Assistant**
+**Research Assistant** at
 [CHIRAL](https://chiralbd.github.io/)
 
 ## Professional Experience
 
 **Executive — Quality Control, Microbiology**  
-Aristopharma Ltd.
+Ophthalmic Unit, Aristopharma Ltd.  
+02 June 2025-Present
 
 **Officer, Quality Control (Microbiology) — Vaccine Division**  
-Incepta Pharmaceuticals Ltd.
+Incepta Pharmaceuticals Ltd.  
+07 January 2025 - 01 June 2025
 
 ## Research Interests
 
-- Cancer genomics and transcriptomics
-- Computational biology and reproducible research
+-bioinformatics and computational biology,  
+-multi-omics,  
+-disease biology &  
+-drug discovery.
+
 
 :::
